@@ -4,12 +4,12 @@
 </p>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=sanaymdtu&label=Profile%20views&color=0e75b6&style=flat"
-        alt="sanyamdtu" />
+    <img src="https://komarev.com/ghpvc/?username=shashanktaneja&label=Profile%20views&color=0e75b6&style=flat"
+        alt="shashanktaneja" />
 
 </div>
 
-# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Sanyam](https://github.com/sanyamdtu)
+# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Shashank](https://github.com/shashanktaneja)
 
 <br />
 
@@ -26,7 +26,7 @@
         <img align="left" alt="sanyam's Facebook" width="30px"
             src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
     </a>
-    <a href="https://github.com/sanyamdtu">
+    <a href="https://github.com/shashanktaneja">
         <img align="left" alt="sanyam's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg"
             draggable="false" />
     </a>
@@ -34,13 +34,9 @@
         <img align="left" alt="sanyam's hackerrank" width="30px"
             src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
     </a>
-    <a href="sanyamdtu@gmail.com">
-        <img align="left" alt="sanyam's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg"
+    <a href="shashanktaneja72@gmail.com">
+        <img align="left" alt="shashank's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg"
             draggable="false" />
-    </a>
-    <a href="https://codeforces.com/profile/sanyamsri">
-        <img align="left" alt="sanyam's codeforces" width="40px"
-            src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/codeforces.png" draggable="false" />
     </a>
 </div>
 
@@ -82,6 +78,6 @@ I will be happy to help
    
   
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanyamdtu&show_icons=true&theme=radical)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shashanktaneja&show_icons=true&theme=radical)
 
 </div>
