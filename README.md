@@ -18,22 +18,18 @@
         <img align="left" alt="sanyam | Twitter" width="30px"
             src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" />
     </a>
-    <a href="https://www.linkedin.com/in/sanyam-srivastava/">
+    <a href="https://www.linkedin.com/in/shashank-taneja-191467206/">
         <img align="left" alt="hemdan's LinkdeIN" width="30px"
             src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
     </a>
-    <a href="https://www.facebook.com/sanyam.srivastava.75098/">
+    <a href="https://www.facebook.com/shashank.taneja.1">
         <img align="left" alt="sanyam's Facebook" width="30px"
             src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
     </a>
     <a href="https://github.com/shashanktaneja">
         <img align="left" alt="sanyam's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg"
             draggable="false" />
-    </a>
-    <a href="https://www.hackerrank.com/sanyamspam">
-        <img align="left" alt="sanyam's hackerrank" width="30px"
-            src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
-    </a>
+    </a>    
     <a href="shashanktaneja72@gmail.com">
         <img align="left" alt="shashank's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg"
             draggable="false" />
@@ -46,14 +42,13 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false"> About me
 
 - <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/logo221.png" width="25" draggable="false">
-Computer Engineering Student <a href="http://dtu.ac.in/">@Delhi Technological University</a>
+Software Engineering Student <a href="http://dtu.ac.in/">@Delhi Technological University</a>
 
 - <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25" draggable="false"> I am passionate about
-Full-Stack,Data Structures and Computer vision
+Web Development,Data Structures and Algorithms
 
-- <img src="https://image.flaticon.com/icons/svg/3034/3034572.svg" width="25" draggable="false"> Currently learning
-OAuth 2.0
-
+- <img src="https://image.flaticon.com/icons/svg/3034/3034572.svg" width="25" draggable="false"> Currently learning 
+React JS
 
 - <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="25" draggable="false"> Ask me about anything,
 I will be happy to help
