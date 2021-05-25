@@ -14,20 +14,20 @@
 <br />
 
 <div align="center">
-    <a href="https://twitter.com/sanyamsrivast20">
-        <img align="left" alt="sanyam | Twitter" width="30px"
+    <a href="https://twitter.com/shashank_1104">
+        <img align="left" alt="shashank | Twitter" width="30px"
             src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" />
     </a>
     <a href="https://www.linkedin.com/in/shashank-taneja-191467206/">
-        <img align="left" alt="hemdan's LinkdeIN" width="30px"
+        <img align="left" alt="shashank's LinkdeIN" width="30px"
             src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
     </a>
     <a href="https://www.facebook.com/shashank.taneja.1">
-        <img align="left" alt="sanyam's Facebook" width="30px"
+        <img align="left" alt="shashank's Facebook" width="30px"
             src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
     </a>
     <a href="https://github.com/shashanktaneja">
-        <img align="left" alt="sanyam's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg"
+        <img align="left" alt="shashank's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg"
             draggable="false" />
     </a>    
     <a href="shashanktaneja72@gmail.com">
@@ -63,8 +63,8 @@ I will be happy to help
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
         alt="bootstrap" width="40" height="40" />
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
