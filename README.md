@@ -43,10 +43,10 @@
 
 - <img src="https://github.com/shashanktaneja/shashanktaneja/blob/master/logo221.png" width="25" draggable="false"> Software Engineering Student <a href="http://dtu.ac.in/">@Delhi Technological University</a>
 
-- <img src="https://image.flaticon.com/icons/svg/888/888954.svg" width="25" draggable="false"> I am passionate about
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZrMj5aAwYWXHu1cUxH-a7VlV6M-z79rzLIFhf4WyVQAFhA8tomQ9qTXIzXTjjy-30kc&usqp=CAU" width="25" draggable="false"> I am passionate about
 Web Development,Data Structures and Algorithms
 
-- <img src="https://image.flaticon.com/icons/svg/3034/3034572.svg" width="25" draggable="false"> Currently learning 
+- <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="25" draggable="false"> Currently learning 
 React JS
 
 - <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="25" draggable="false"> Ask me about anything,
