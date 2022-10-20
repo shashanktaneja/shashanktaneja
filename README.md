@@ -16,7 +16,7 @@
 <div align="center">
     <a href="https://twitter.com/shashank_1104">
         <img align="left" alt="shashank | Twitter" width="30px"
-            src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" />
+            src="[https://image.flaticon.com/icons/svg/2111/2111703.svg](https://cdn-icons-png.flaticon.com/512/124/124021.png)" draggable="false" />
     </a>
     <a href="https://www.linkedin.com/in/shashank-taneja-191467206/">
         <img align="left" alt="shashank's LinkdeIN" width="30px"
