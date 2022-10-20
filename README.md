@@ -20,18 +20,18 @@
     </a>
     <a href="https://www.linkedin.com/in/shashank-taneja-191467206/">
         <img align="left" alt="shashank's LinkdeIN" width="30px"
-            src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+            src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" />
     </a>
     <a href="https://www.facebook.com/shashank.taneja.1">
         <img align="left" alt="shashank's Facebook" width="30px"
-            src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
+            src="https://cdn-icons-png.flaticon.com/512/145/145802.png" draggable="false" />
     </a>
     <a href="https://github.com/shashanktaneja">
-        <img align="left" alt="shashank's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg"
+        <img align="left" alt="shashank's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
             draggable="false" />
     </a>    
     <a href="shashanktaneja72@gmail.com">
-        <img align="left" alt="shashank's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg"
+        <img align="left" alt="shashank's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
             draggable="false" />
     </a>
 </div>
