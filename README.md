@@ -49,7 +49,7 @@ Web Development,Data Structures and Algorithms
 - <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="25" draggable="false"> Currently learning 
 React JS
 
-- <img src="https://image.flaticon.com/icons/svg/3094/3094869.svg" width="25" draggable="false"> Ask me about anything,
+- <img src="https://cdn-icons-png.flaticon.com/512/5225/5225075.png" width="25" draggable="false"> Ask me about anything,
 I will be happy to help
 
 
